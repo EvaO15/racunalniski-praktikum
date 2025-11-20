@@ -1,17 +1,19 @@
-<!-- glavni naslov -->
-Računalniški praktikum
-<!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
-     V tem besedilu so v komentarjih napisana navodila za reševanje. -->
+
+#Računalniški praktikum
+
 
 <!-- 2. nivojski razdelek -->
 Bližnjice na tipkovnici
 
-Kopiraj označeno v odložišče: Ctrl+C (**C**opy)
-Izreži označeno v odložišče: Ctrl+X
-Prilepi vsebino odložišča: Ctrl+V
+- _Kopiraj_ označeno v odložišče: Ctrl+C (**C**opy)
+- _Izreži_ označeno v odložišče: Ctrl+X
+- _Prilepi_ vsebino odložišča: Ctrl+V
+- Skok na konec vrstice: End
+- Ustvari novo datoteko: Ctrl+N
+- Zapiranje zavihka: Ctrl+W
 
 <!-- 2. nivojski razdelek -->
-Izvorna koda
+<kbd>Izvorna koda</kbd>
 
 Včasih pride prav značka kbd za tipke. Značko uporabimo takole:
 
@@ -32,7 +34,7 @@ Domača naloga
 <!-- 2. nivojski razdelek -->
 Uporabne povezave
 
-FMF učilnica <!-- https://ucilnica.fmf.uni-lj.si/ -->
-Računalniški sistemi, storitve in oprema za študente <!-- https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619 -->
-Zapiski in vaje za Računalniški praktikum <!-- https://racunalniski-praktikum.github.io/ -->
-Dokumentacija za Markdown na GitHubu <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
+2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
+4. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
+5. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
